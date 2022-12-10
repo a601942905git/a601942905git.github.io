@@ -1,1 +1,1 @@
-[{"name":"nginx","path":"api/tags/nginx.json","slug":"nginx","count":1},{"name":"consul","path":"api/tags/consul.json","slug":"consul","count":1},{"name":"consul-template","path":"api/tags/consul-template.json","slug":"consul-template","count":1}]
+[{"name":"consul","path":"api/tags/consul.json","slug":"consul","count":1},{"name":"nginx","path":"api/tags/nginx.json","slug":"nginx","count":1},{"name":"consul-template","path":"api/tags/consul-template.json","slug":"consul-template","count":1},{"name":"一致性","path":"api/tags/一致性.json","slug":"一致性","count":1}]
